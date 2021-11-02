@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825579458880",
+    "project_id": "socialpage-29e53",
+    "storage_bucket": "socialpage-29e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825579458880:android:c13383e0ca080dd1242aa5",
+        "android_client_info": {
+          "package_name": "com.midterm.socialpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825579458880-3ssv2sm6lhbmhq46l5nsmd4ccptu9o42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-dZDGRfKhwsCGb5Wg-kQnCypSK6V_H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825579458880-3ssv2sm6lhbmhq46l5nsmd4ccptu9o42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
